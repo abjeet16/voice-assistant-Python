@@ -3,7 +3,7 @@ from gtts import gTTS
 import google.generativeai as genai
 import os
 
-# Configure the Google Generative AI API
+# Configure the Google Generative AI API#
 genai.configure(api_key="AIzaSyDRPY4FrWNUOqBPL6O-ZGcs3_5nsZ6gIvY")
 
 # Create the model
